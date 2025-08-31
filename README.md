@@ -1,5 +1,7 @@
 # Cuckoo Clock Project
 
+You can see my clock here - https://analogueanddigitalclock.netlify.app/
+
 This project is a simple implementation of a cuckoo clock using HTML, CSS, and JavaScript. The clock displays the current time in both analogue and digital formats.
 
 ## Features
@@ -12,15 +14,7 @@ This project is a simple implementation of a cuckoo clock using HTML, CSS, and J
 - `styles.css`: Styles for the clock face, body, and overall layout.
 - `script.js`: JavaScript functionality for the clock's movement and digital display.
 
-## How to Run
-1. Clone the repository or download the files.
-2. Open `index.html` in a web browser.
-3. Enjoy the cuckoo clock!
-
-## Technologies Used
+## Languages Used
 - HTML
 - CSS
 - JavaScript
-
-## License
-This project is open-source and available under the MIT License.
